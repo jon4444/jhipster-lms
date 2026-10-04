@@ -1,0 +1,33 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "authenticationType": "jwt",
+    "baseName": "jhipsterapp",
+    "buildTool": "maven",
+    "cacheProvider": "ehcache",
+    "clientFramework": "react",
+    "clientTheme": "none",
+    "creationTimestamp": 1791077830781,
+    "databaseType": "sql",
+    "defaultCommand": "app",
+    "devDatabaseType": "mysql",
+    "enableHibernateCache": true,
+    "enableTranslation": true,
+    "entities": [],
+    "feignClient": false,
+    "jhipsterVersion": "9.4.0",
+    "jwtSecretKey": "MmNiZTY0NDA3YTgxMDM1MTU5ZjZkOGY5OTAyYWRjNmUxNDZlNmRlOWU2MmVkMDNjNjJmZWYyZGY1OThlNTE2ZjQ5OTI1ODY4YWYwMmM2Mzk3ZDdjMGEyOGM0YTk1YzQzMzE5YTkzNzQ0ZTViOWQ2YWJkNGRlNzQ2NjE0ZDlhNzc=",
+    "languages": ["en"],
+    "microfrontend": null,
+    "microfrontends": [],
+    "nativeLanguage": "en",
+    "packageName": "com.example.lms",
+    "prodDatabaseType": "mysql",
+    "reactive": false,
+    "serverPort": "8081",
+    "serviceDiscoveryType": "eureka",
+    "syncUserWithIdp": null,
+    "testFrameworks": [],
+    "withAdminUi": true
+  }
+}
